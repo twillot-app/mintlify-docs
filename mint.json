@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Twillot Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/log/light.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -25,8 +25,7 @@
     "name": "Dashboard",
     "url": "https://twillot.com"
   },
-  "tabs": [
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
@@ -47,11 +46,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
