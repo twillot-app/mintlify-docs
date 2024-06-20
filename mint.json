@@ -49,19 +49,16 @@
       "pages": ["introduction", "quickstart"]
     },
     {
-      "group": "Bookmark Management",
-      "pages": ["bookmarks/twitter-bookmark-pain-points-2024"]
+      "group": "Guide",
+      "pages": ["bookmarks/guide", "workflows/guide"]
     },
     {
-      "group": "Workflow Automation",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
+      "group": "FAQ",
+      "pages": ["faq"]
+    },
+    {
+      "group": "License Code",
+      "pages": ["license"]
     }
   ],
   "footerSocials": {
