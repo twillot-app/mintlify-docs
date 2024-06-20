@@ -49,7 +49,11 @@
       "pages": ["introduction", "quickstart"]
     },
     {
-      "group": "Essentials",
+      "group": "Bookmark Management",
+      "pages": ["bookmarks/twitter-bookmark-pain-points-2024"]
+    },
+    {
+      "group": "Workflow Automation",
       "pages": [
         "essentials/markdown",
         "essentials/code",
