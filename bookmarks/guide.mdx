@@ -3,55 +3,55 @@ title: Search Bookmarks
 description: "Complete guide to bookmark management in Twillot."
 ---
 
-Twillot 支持多种搜索方式，并且尽可能保持与 X/Twitter 相同的搜索语法，减轻您的学习成本。
+Twillot supports various search methods, closely mirroring X/Twitter's search syntax to reduce your learning curve.
 
-## 使用关键字搜索
+## Keyword Search
 
-在顶部搜索框输入关键字，按下回车按键或者点击搜索按钮即可快速搜索，搜索结果会在几十毫秒钟内呈现，本地查询，不会经过任何服务器。
+Enter keywords in the top search box, press Enter or click the search button to quickly search. Results will appear within milliseconds, as the query is local and does not go through any server.
 
-## 搜索特定用户的书签
+## Search Bookmarks by Specific User
 
-类似于使用关键字搜索，输入的文本格式形如 `from:[username]` ，即可搜索特定用户的书签。
+Similar to keyword search, enter the text in the format `from:[username]` to search bookmarks from a specific user.
 
 ```text
 from:dotey
 ```
 
-## 搜索特定日期以后的书签
+## Search Bookmarks After a Specific Date
 
-类似于使用关键字搜索，输入的文本格式形如 `since:[start_date]`
+Similar to keyword search, enter the text in the format `since:[start_date]`
 
 ```text
 since:2024-06-01
 ```
 
-## 搜索特定日期以前的书签
+## Search Bookmarks Before a Specific Date
 
-类似于使用关键字搜索，输入的文本格式形如 `until:[end_date]`
+Similar to keyword search, enter the text in the format `until:[end_date]`
 
 ```text
 until:2024-06-22
 ```
 
-## 搜索特定日期内的书签
+## Search Bookmarks Within a Date Range
 
-组合 since 和 until 即可，如 `since:2024-06-01 until:2024-06-22`
+Combine since and until, like `since:2024-06-01 until:2024-06-22`
 
 ```text
 since:2024-06-01 until:2024-06-22
 ```
 
-## 组合关键字 / 用户 / 日期搜索书签
+## Combine Keywords / User / Date to Search Bookmarks
 
-加不同的搜索条件后添加空格分隔即可自由组合，示例如下：
+Add different search conditions separated by spaces to freely combine them, as shown below:
 
 ```text
 AI from:dotkey since:2024-06-01 until:2024-06-22
 ```
 
-即可搜索在 2024 年 6 月 1 日到 2024 年 6 月 22 日内由用户 [dotey](https://x.com/dotey) 发布的包含关键字 `AI` 的相关书签。
+This will search for bookmarks containing the keyword `AI` posted by user [dotey](https://x.com/dotey) between June 1, 2024, and June 22, 2024.
 
 <Tip>
-  熟悉 X/Twitter 的用户可能会发现 Twillot 支持的搜索方式与其非常类似，深入了解
+  Users familiar with X/Twitter will find Twillot's search methods very similar. Learn more about
   [Advance Search](https://help.x.com/en/using-x/x-advanced-search)
 </Tip>
