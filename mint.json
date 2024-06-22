@@ -23,14 +23,14 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "/"
+    "url": "https://twillot.com/"
   },
   "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "/docs/introduction"
+      "url": "https://twillot.com/docs/introduction"
     },
     {
       "name": "Community",
@@ -40,7 +40,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "/blog"
+      "url": "https://twillot.com/blog"
     }
   ],
   "navigation": [
