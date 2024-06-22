@@ -49,16 +49,30 @@
       "pages": ["introduction", "quickstart"]
     },
     {
-      "group": "Guide",
-      "pages": ["bookmarks/guide", "workflows/guide"]
+      "group": "Bookmark Management",
+      "pages": [
+        "bookmarks/guide",
+        "bookmarks/folders",
+        "bookmarks/data-insights",
+        "bookmarks/zen-mode"
+      ]
+    },
+    {
+      "group": "Workflow Automation",
+      "pages": [
+        "workflows/guide",
+        "workflows/folders",
+        "workflows/data-insights",
+        "workflows/zen-mode"
+      ]
     },
     {
       "group": "FAQ",
-      "pages": ["faq"]
-    },
-    {
-      "group": "License Code",
-      "pages": ["license"]
+      "pages": [
+        "faq/bookmark-management",
+        "faq/workflow-automation",
+        "faq/license-code"
+      ]
     }
   ],
   "footerSocials": {
