@@ -23,14 +23,14 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://twillot.com"
+    "url": "/"
   },
   "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://twillot.com/docs"
+      "url": "/docs/introduction"
     },
     {
       "name": "Community",
@@ -40,13 +40,16 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://twillot.com/blog"
+      "url": "/blog"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart"]
+      "pages": [
+        "introduction",
+        "quickstart"
+      ]
     },
     {
       "group": "Bookmark Management",
@@ -59,7 +62,10 @@
     },
     {
       "group": "Workflow Automation",
-      "pages": ["workflows/guide", "workflows/settings"]
+      "pages": [
+        "workflows/guide",
+        "workflows/settings"
+      ]
     }
   ],
   "footerSocials": {
