@@ -47,24 +47,24 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart"
+        "docs/introduction",
+        "docs/quickstart"
       ]
     },
     {
       "group": "Bookmark Management",
       "pages": [
-        "bookmarks/guide",
-        "bookmarks/folders",
-        "bookmarks/data-insights",
-        "bookmarks/zen-mode"
+        "docs/bookmarks/guide",
+        "docs/bookmarks/folders",
+        "docs/bookmarks/data-insights",
+        "docs/bookmarks/zen-mode"
       ]
     },
     {
       "group": "Workflow Automation",
       "pages": [
-        "workflows/guide",
-        "workflows/settings"
+        "docs/workflows/guide",
+        "docs/workflows/settings"
       ]
     }
   ],
