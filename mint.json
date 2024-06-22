@@ -59,20 +59,7 @@
     },
     {
       "group": "Workflow Automation",
-      "pages": [
-        "workflows/guide",
-        "workflows/folders",
-        "workflows/data-insights",
-        "workflows/zen-mode"
-      ]
-    },
-    {
-      "group": "FAQ",
-      "pages": [
-        "faq/bookmark-management",
-        "faq/workflow-automation",
-        "faq/license-code"
-      ]
+      "pages": ["workflows/guide", "workflows/settings"]
     }
   ],
   "footerSocials": {
