@@ -1,6 +1,6 @@
 ---
 title: Twillot Workflow Guide
-description: ""
+description: "Discover how to automate your Twitter interactions with Twillot Workflow Guide. Learn about various triggers and actions to streamline your Twitter experience."
 ---
 
 When creating content on Twitter, there are many repetitive tasks or the need to switch between multiple tools, which can be frustrating. To help you work more efficiently, we have compiled the Twillot Workflow Guide.
