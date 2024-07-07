@@ -1,59 +1,59 @@
 ---
-title: Twillot 工作流指南
+title: Twillot Workflow Guide
 description: ""
 ---
 
-当您在使用 Twtiier 创造内容时，有许多重复性的工作或者需要在多个工具之间切换，这让人感到烦躁。为了帮助您更高效地工作，我们整理了 Twillot 工作流指南。
-一个完整的工作流包含一个触发器 Trigger 和一个响应动作 Action。
+When creating content on Twitter, there are many repetitive tasks or the need to switch between multiple tools, which can be frustrating. To help you work more efficiently, we have compiled the Twillot Workflow Guide.
+A complete workflow consists of a Trigger and an Action.
 
-## 触发器
+## Triggers
 
-触发器代表您在使用 Twitter 时的交互动作，常见的交互动作包括：
+Triggers represent your interactions on Twitter. Common interactions include:
 
-### 发表推文 Post
-当您在 Twitter 上发表一条新推文时，触发相应的工作流动作。
+### Post a Tweet
+When you post a new tweet on Twitter, it triggers the corresponding workflow action.
 
-### 回复推文 Reply
-当您回复一条推文时，触发相应的工作流动作。
+### Reply to a Tweet
+When you reply to a tweet, it triggers the corresponding workflow action.
 
-### 转推推文 Repost
-当您转推一条推文时，触发相应的工作流动作。
+### Retweet a Tweet
+When you retweet a tweet, it triggers the corresponding workflow action.
 
-### 引用推文 Quote
-当您引用一条推文时，触发相应的工作流动作。
+### Quote a Tweet
+When you quote a tweet, it triggers the corresponding workflow action.
 
-### 点赞推文 Like
-当您点赞一条推文时，触发相应的工作流动作。
+### Like a Tweet
+When you like a tweet, it triggers the corresponding workflow action.
 
-### 添加书签 Bookmark
-当您为一条推文添加书签时，触发相应的工作流动作。
+### Bookmark a Tweet
+When you bookmark a tweet, it triggers the corresponding workflow action.
 
-### 删除书签 Unbookmark
-当您删除一条推文的书签时，触发相应的工作流动作。
+### Unbookmark a Tweet
+When you remove a bookmark from a tweet, it triggers the corresponding workflow action.
 
-## 响应动作
+## Actions
 
-常见的响应动作包括：
+Common actions include:
 
-### 自动展开主题 Unroll Thread
-自动展开 Twitter 主题，让阅读 Twitter 主题更加方便。
+### Unroll Thread
+Automatically unroll Twitter threads, making it easier to read them.
 
-### 从本地删除书签
-从本地删除已保存的书签。
+### Delete Local Bookmark
+Delete saved bookmarks locally.
 
-### 自动回复
-自动回复推文，节省时间和精力。
+### Auto Reply
+Automatically reply to tweets, saving time and effort.
 
-### 下载视频
-无需复制粘贴，直接下载推文中的视频，提供最极致的体验。
+### Download Video
+Download videos from tweets directly without copy-pasting, providing the ultimate experience.
 
-### 自动翻译
-自动翻译推文内容，方便阅读不同语言的推文。
+### Auto Translate
+Automatically translate tweet content, making it easier to read tweets in different languages.
 
-### 自动添加签名
-自动在推文中添加个性化签名，增加推文的传播力。
+### Auto Add Signature
+Automatically add a personalized signature to tweets, increasing their reach.
 
-### 仿真视频截图
-生成仿真视频截图，增加推文的吸引力与可信度，提升曝光量。
+### Fake Video Screenshot
+Generate fake video screenshots, increasing the attractiveness and credibility of tweets, and boosting exposure.
 
-通过触发器与响应动作的自由组合，您可以发挥您的想象力，创造出更加独特的 Twitter 体验。
+By freely combining triggers and actions, you can unleash your creativity and create a more unique Twitter experience.
