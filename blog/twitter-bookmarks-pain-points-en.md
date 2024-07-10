@@ -69,4 +69,6 @@ Twitter bookmarks do not support searching by keyword, author, or date, making i
 
 Twitter could add a bookmark search function, allowing users to quickly find bookmarks by keyword, author, or date, improving efficiency.
 
-By addressing these pain points, Twitter can greatly enhance the user experience of the bookmark feature, making it more practical and convenient.
+By solving the above pain points, Twitter can greatly improve the user experience of the bookmark function, making it more practical and convenient. As of 2024-07-07, these problems have not been solved. Twitter does not seem to be able to provide a perfect solution in the short term, but you can choose to use Twillot as a bookmark management tool. It is a Chrome extension that is compatible with Twitter bookmarks. It is powerful and easy to use, and can perfectly meet all the above needs. Download address:
+
+https://dub.sh/7ubLVdF?utm_source=blog
