@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Twillot Docs",
+  "name": "Docs",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
@@ -23,14 +23,14 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://twillot.com/"
+    "url": "/"
   },
   "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://twillot.com/docs/introduction"
+      "url": "/docs/introduction"
     },
     {
       "name": "Community",
@@ -40,16 +40,13 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://twillot.com/blog"
+      "url": "/blog"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "docs/introduction",
-        "docs/quickstart"
-      ]
+      "pages": ["docs/introduction", "docs/quickstart"]
     },
     {
       "group": "Bookmark Management",
@@ -62,10 +59,7 @@
     },
     {
       "group": "Workflow Automation",
-      "pages": [
-        "docs/workflows/guide",
-        "docs/workflows/settings"
-      ]
+      "pages": ["docs/workflows/guide", "docs/workflows/settings"]
     }
   ],
   "footerSocials": {
