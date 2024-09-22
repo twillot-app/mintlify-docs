@@ -53,13 +53,16 @@
       "pages": [
         "docs/bookmarks/guide",
         "docs/bookmarks/folders",
-        "docs/bookmarks/data-insights",
-        "docs/bookmarks/zen-mode"
+        "docs/bookmarks/data-insights"
       ]
     },
     {
-      "group": "Workflow Automation",
-      "pages": ["docs/workflows/guide", "docs/workflows/settings"]
+      "group": "Multi Publish",
+      "pages": [
+        "docs/multi-publish/quickstart",
+        "docs/multi-publish/platforms",
+        "docs/multi-publish/faq"
+      ]
     }
   ],
   "footerSocials": {
