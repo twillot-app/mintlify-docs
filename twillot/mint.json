@@ -45,10 +45,6 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["docs/introduction", "docs/quickstart"]
-    },
-    {
       "group": "Bookmark Management",
       "pages": [
         "docs/bookmarks/guide",
