@@ -55,7 +55,7 @@
     {
       "group": "Multi Publish",
       "pages": [
-        "docs/multi-publish/quickstart",
+        "docs/multi-publish/quick-start",
         "docs/multi-publish/platforms",
         "docs/multi-publish/faq"
       ]
