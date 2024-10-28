@@ -45,21 +45,20 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["docs/introduction", "docs/quickstart"]
-    },
-    {
       "group": "Bookmark Management",
       "pages": [
         "docs/bookmarks/guide",
         "docs/bookmarks/folders",
-        "docs/bookmarks/data-insights",
-        "docs/bookmarks/zen-mode"
+        "docs/bookmarks/data-insights"
       ]
     },
     {
-      "group": "Workflow Automation",
-      "pages": ["docs/workflows/guide", "docs/workflows/settings"]
+      "group": "Multi Publish",
+      "pages": [
+        "docs/multi-publish/quick-start",
+        "docs/multi-publish/platforms",
+        "docs/multi-publish/faq"
+      ]
     }
   ],
   "footerSocials": {
